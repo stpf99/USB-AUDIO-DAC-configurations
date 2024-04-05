@@ -6,4 +6,4 @@ dir:
 
 1. for wireplumber:
 
-2. ~/.config/wireplumber/main.lua.d/50-alsa-config.lua
+1a. ~/.config/wireplumber/main.lua.d/50-alsa-config.lua
