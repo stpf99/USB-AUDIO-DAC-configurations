@@ -163,9 +163,9 @@ apply_properties = {
 ["priority.session"] = 10000,
 ["audio.channels"]  = 2,
 ["audio.rate"] = 384000,
-["audio.format"]  = "S32LE",
-["alsa.resolution_bits"] = "32",
-["audio.allowed-rates"] = "32000,384000",
+["audio.format"]  = "S24_3LE",
+["alsa.resolution_bits"] = "24",
+["audio.allowed-rates"] = "8000,384000",
 ["audio.position"]         = "FL,FR",
 ["api.alsa.period-size"]   = 1024,
 }
